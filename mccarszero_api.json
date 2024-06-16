@@ -1,11 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mc-cars",
   "1.20.1": {
+    "0.0.3": "Remade ModelE", 
     "0.0.2": "Add Engine Sounds and Remade Wheel Model", 
     "0.0.1": "First Release."
   },
   "promos": {
-    "1.20.1-latest": "0.0.2",
-    "1.20.1-recommended": "0.0.2"
+    "1.20.1-latest": "0.0.3",
+    "1.20.1-recommended": "0.0.3"
   }
 }
